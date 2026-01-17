@@ -1,5 +1,8 @@
 # Market-Sense
 MarketSense 📈
+Try : https://lnkd.in/egxePjTE
+
+Look at the market research report produced based on Jan 17 for Amazon in my github : https://lnkd.in/eD5WSKQY
 
 AI-Powered, Portfolio-Aware Stock Analysis
 
