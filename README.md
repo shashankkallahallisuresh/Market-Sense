@@ -1,86 +1,71 @@
-# Market-Sense
-MarketSense 📈
-Try : https://lnkd.in/egxePjTE
+# MarketSense 📈  
+**AI-Powered, Portfolio-Aware Stock Analysis**
 
-Look at the market research report produced based on Jan 17 for Amazon in my github : https://lnkd.in/eD5WSKQY
+MarketSense is an experimental AI application built using **Google Opal** that helps users explore stock insights by generating personalized, portfolio-aware market analysis reports.
 
-AI-Powered, Portfolio-Aware Stock Analysis
+👉 **Try the app:** https://lnkd.in/egxePjTE  
+👉 **Sample Market Research Report (Amazon – Jan 17):** https://lnkd.in/eD5WSKQY
 
-MarketSense is an experimental AI application built using Google Opal that helps users make informed investment decisions by generating deep, personalized stock analysis reports in minutes.
+---
 
-Instead of spending hours across earnings calls, news articles, and analyst notes, MarketSense delivers a structured market overview tailored to the user’s existing portfolio and interests.
-
-🚀 What MarketSense Does
+## 🚀 What MarketSense Does
 
 MarketSense guides users through a simple flow:
 
-Select a stock they are interested in
+1. Select a stock of interest  
+2. Share current portfolio holdings to understand preferences  
+3. Analyze:
+   - Recent market news  
+   - Current trends  
+   - Company financial health and positioning  
+4. Generate a clear, structured market research report
 
-Share current portfolio holdings to understand investment preferences
+The goal is to reduce research time and surface relevant insights quickly.
 
-Analyze the market using:
+---
 
-Recent news and developments
-
-Current market trends
-
-Company financial health and positioning
-
-Generate a comprehensive report focused on relevance, clarity, and decision support
-
-The output is a clean, easy-to-read analysis designed to support—not replace—human judgment.
-
-🧠 Why It Matters
+## 🧠 Why This Project
 
 Retail investors often face:
+- Information overload  
+- Generic stock summaries  
+- Time-consuming research  
 
-Information overload
+MarketSense demonstrates how **prompt engineering and modern AI models** can streamline market research workflows.
 
-Generic stock summaries
+---
 
-Time-intensive research workflows
+## 🛠️ Tech Stack
 
-MarketSense demonstrates how prompt engineering + modern AI models can dramatically reduce research time while improving signal quality.
+- Platform: Google Opal (experimental)
+- AI Models: Google AI models via Opal
+- Core Skill: Prompt engineering
+- Approach: No-code / low-code rapid prototyping
 
-🛠️ Tech Stack
+---
 
-Platform: Google Opal (experimental)
+## 📊 Example Output
 
-AI Models: Google AI models (via Opal)
+A sample report analyzing **Amazon (AMZN)** based on January 17 market data is available in this repository for reference.
 
-Core Skill: Prompt engineering & workflow design
+---
 
-Approach: No-code / low-code, rapid prototyping
+## ⚠️ Disclaimer
 
-📊 Example Use Case
+MarketSense is **purely an experimental project** built for learning and exploration.  
+It does **not** provide financial or investment advice.
 
-A user requests analysis for Amazon (AMZN):
+---
 
-MarketSense evaluates Amazon’s financial health
+## 🌱 Future Ideas
 
-Reviews recent news and macro trends
+- Portfolio-level insights  
+- Risk profiling  
+- Sector comparisons  
+- Exportable reports (PDF / Notion)
 
-Assesses its role within the user’s existing portfolio
+---
 
-Produces a focused investment-ready report
+## 👋 Final Note
 
-⚠️ Disclaimer
-
-MarketSense is an experimental project for educational and exploratory purposes only.
-It does not provide financial advice. Always conduct your own research or consult a financial professional before investing.
-
-🌱 Future Ideas
-
-Portfolio performance tracking
-
-Risk profiling & scenario analysis
-
-Sector-level insights
-
-Exportable reports (PDF / Notion)
-
-👋 Final Note
-
-This project showcases where AI-driven app development is headed — fast iteration, minimal code, and maximum leverage through intelligent prompting.
-
-If you’re experimenting with AI tools, investing workflows, or rapid app prototyping, feel free to explore, fork, or contribute.
+This project showcases how fast AI-powered app development is evolving when combined with strong prompt design and experimentation.
